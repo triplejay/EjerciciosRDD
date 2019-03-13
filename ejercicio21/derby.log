@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 13 21:44:00 CET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0169-78cc-2c4e-000010c68f28 
+on database directory /root/rdd/ejercicio21/metastore_db with class loader sun.misc.Launcher$AppClassLoader@312b1dae 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-8u181-b13-2~deb9u1-b13
+user.dir=/root/rdd/ejercicio21
+os.name=Linux
+os.arch=amd64
+os.version=4.9.0-3-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,4 @@
+Warning: No se puede establecer la función
+Error: Acceso denegado
+Warning: Intente de nuevo establecer la variable
+Error: No se encuentra el repositorio

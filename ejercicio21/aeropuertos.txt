@@ -1,0 +1,6 @@
+0,Federico,GRA,Espana,35,63,93,CET
+1,Barajas,MAD,Espana,41,33,53,CET
+2,Mariscal,QUI,Ecuador,55,63,69,GMT-5
+3,Olaya,MED,Cololmbia,25,76,23,GMT-5
+4,Paris,PAR,Francia,56,78,43,CET
+5,Narita,TKY,Japon,75,32,55,GMT+9
